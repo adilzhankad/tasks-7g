@@ -1,4 +1,5 @@
 entropy-sniffer
+wordfreq
 sender
 receiver
 *.o
