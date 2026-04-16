@@ -1,7 +1,3 @@
 entropy-sniffer
-wordfreq
-sender
-receiver
 *.o
 *.exe
-.claude/
