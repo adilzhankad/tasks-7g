@@ -1,3 +1,6 @@
 entropy-sniffer
+sender
+receiver
 *.o
 *.exe
+.claude/
